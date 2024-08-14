@@ -1,0 +1,13 @@
+jupyterlab
+ipywidgets
+ollama
+streamlit 
+pdfplumber 
+langchain
+langchain-core
+langchain-community
+langchain_text_splitters
+unstructured
+unstructured-inference
+unstructured[all-docs]
+chromadb
