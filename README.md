@@ -22,4 +22,5 @@ Easy to use RAG (Retrieval Augmented Generation) setup.
 ## References
 
 * LangChain: [Build a Local RAG Application](https://python.langchain.com/v0.2/docs/tutorials/local_rag/)
+* Ollama [Embedding models](https://ollama.com/blog/embedding-models)
 * Blog post [github](https://github.com/tonykipkemboi/ollama_pdf_rag/tree/main)
