@@ -12,7 +12,7 @@ Easy to use RAG (Retrieval Augmented Generation) setup.
 
 ```bash
 (base) ollama pull nomic-embed-text
-(base) ollama pull nomic-embed-text
+(base) ollama pull llama3.1
 (base) conda create --name simple-rag-env python=3.11 -y
 (base) conda activate simple-rag-env
 (simple-rag-env) pip install -r requirements.txt
