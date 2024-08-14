@@ -7,7 +7,7 @@ Easy to use RAG (Retrieval Augmented Generation) setup.
 1. Download and install [Anaconda](https://docs.anaconda.com/anaconda/install/). Add Anaconda to your PATH environment. Yes, do it ;)
 2. Install [Ollama](https://ollama.com/download)
 3. Download this repo as zip [link](https://github.com/javierip/simple-RAG-setup/archive/refs/heads/main.zip)
-4. Decompress the repository to your resired directory.
+4. Decompress the repository to your desired directory.
 5. Open a terminal.
 
 ```bash
